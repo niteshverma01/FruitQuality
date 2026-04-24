@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+mobile/node_modules/
+
+# Python Virtual Environment
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# React Native / Expo
+.expo/
+mobile/.expo/
+mobile/dist/
+
+# Environment Variables
+.env
+.env.local
+
+# OS Files
+.DS_Store
+Thumbs.db
